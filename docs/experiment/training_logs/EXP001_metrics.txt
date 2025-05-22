@@ -1,0 +1,12 @@
+Experiment ID: EXP001
+Date: 2025-05-22 05:08:11
+========================================
+Type: Training
+Model: YOLOv11s_v2
+Technique: Baseline
+mAP_val: 0.9696
+mAP_test: 0.9696
+FPS_GPU: 71.4
+FPS_CPU: 4.0
+Size (MB): 18.3
+Notes: Baseline model trained on datasets v2
